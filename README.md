@@ -1,4 +1,4 @@
-## ❤️ ROCKS MUSIC BOT 3.0 ❤️
+## ❤️ ALISHA MUSIC BOT 3.0 ❤️
 
 ROCKS Music Is A Telegram Bot Project That's Allow You To Play Music On Telegram Voice Chat Group.
 
