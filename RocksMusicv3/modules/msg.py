@@ -18,7 +18,7 @@ from RocksMusicv3.config import ASSISTANT_NAME, PROJECT_NAME
 
 
 class Messages:
-    START_MSG = "**Hello 👋 [{}](tg://user?id={})Dear How Are You😊...!**\n\n😊 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info.\n\n✅**Developed By @Dr_Asad_Ali + Bro ❣️ @HarshitSharma361.\n\n✅**Love You All Guys ❣️**\n\n✅**Join** @Shayri_Music_Lovers **Subscribe** @AsadSupport"
+    START_MSG = "**Hello 👋 [{}](tg://user?id={})Dear How Are You😊...!**\n\n😊 I am an advanced bot created for playing music in the voice chats of Telegram Groups & Channels.\n\n✅ Send me /help for more info.\n\n✅**Developed By @Venom_Hai_Hum.\n\n✅**Love You All Guys ❣️**\n\n✅**Join** @AlishaSupport **Subscribe** 
     HELP_MSG = [
         ".",
         f"""
