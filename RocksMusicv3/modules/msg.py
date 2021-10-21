@@ -26,7 +26,7 @@ class Messages:
 
 ⚪️ {PROJECT_NAME} can play music in your group's voice chat as well as channel voice chats
 
-⚪️ Assistant name >> @{ASSISTANT_NAME}\n\nClick next for instructions Developer @Dr_Asad_Ali**
+⚪️ Assistant name >> @{ASSISTANT_NAME}\n\nClick next for instructions Developer @Venom_Hai_Hum **
 """,
         f"""
 **Setting up**
